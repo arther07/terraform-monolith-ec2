@@ -1,4 +1,4 @@
-# Part 1: Single EC2 Instance Deployment
+# terraform-monolith-ec2
 
 This configuration deploys both the Flask backend and Express frontend on a single EC2 instance.
 
